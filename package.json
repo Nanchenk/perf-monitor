@@ -1,0 +1,27 @@
+{
+  "name": "perf-monitor",
+  "version": "0.0.1",
+  "description": "General front-end performance indicators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nanchenk/perf-monitor.git"
+  },
+  "keywords": [
+    "front-end",
+    "performance",
+    "monitor"
+  ],
+  "author": "nanchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nanchenk/perf-monitor/issues"
+  },
+  "homepage": "https://github.com/Nanchenk/perf-monitor#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}

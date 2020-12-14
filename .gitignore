@@ -1,0 +1,14 @@
+node_modules/
+tmp/
+temp/
+.idea/
+.DS_Store
+.vscode/
+.cache/
+
+dist/
+lib/
+
+*.log
+*.iml
+*.tgz

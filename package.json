@@ -23,5 +23,9 @@
   "homepage": "https://github.com/Nanchenk/perf-monitor#readme",
   "devDependencies": {
     "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "web-vitals": "^1.0.1"
   }
 }

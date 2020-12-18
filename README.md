@@ -7,7 +7,7 @@
 ## 使用
 
 ```typescript
-import { getCLS, getFID, getLCP, getFCP, getTTFB, getReadyInfo, getResourceInfo, getFPS, uuid } from 'perf-montior';
+import { getCLS, getFID, getLCP, getFCP, getTTFB, getReadyInfo, getResourceInfo, getFPS, uuid } from 'perf-montior-kit';
 
 // web-vitals's function
 getCLS(console.log, reportAllChanges?: boolean));

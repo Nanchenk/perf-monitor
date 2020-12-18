@@ -1,6 +1,6 @@
 {
   "name": "perf-monitor-kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "General front-end performance indicators",
   "main": "lib/performanceMonitor.prod.common.js",
   "module": "lib/performanceMonitor.esm.js",

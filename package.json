@@ -1,5 +1,5 @@
 {
-  "name": "perf-monitor",
+  "name": "perf-monitor-kit",
   "version": "0.0.1",
   "description": "General front-end performance indicators",
   "main": "lib/performanceMonitor.prod.common.js",
@@ -22,6 +22,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nanchenk/perf-monitor.git"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
   },
   "keywords": [
     "front-end",

@@ -4,6 +4,10 @@
   "description": "General front-end performance indicators",
   "main": "lib/performanceMonitor.prod.common.js",
   "module": "lib/performanceMonitor.esm.js",
+  "files": [
+    "lib",
+    "README.md"
+  ],
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "npm run build:prod & npm run build:types",
